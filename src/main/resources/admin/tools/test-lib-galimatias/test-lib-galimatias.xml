@@ -1,0 +1,7 @@
+<tool>
+  <display-name>Test lib-galimatias</display-name>
+  <description>Test lib-galimatias</description>
+  <allow>
+    <principal>role:system.admin</principal>
+  </allow>
+</tool>

@@ -1,0 +1,5 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5">
+	<!--path fill="#fff" d="M0 0h200v200H0z"/-->
+	<circle cx="100" cy="100" r="86" fill="none" stroke="#000" stroke-width="7.5"/>
+	<path d="M39.189 39.189c33.562-33.563 88.06-33.563 121.622 0L100 100 39.189 39.189zM100 100l60.811 60.811c-33.562 33.563-88.06 33.563-121.622 0L100 100z" stroke="#000" stroke-width="7.5"/>
+</svg>
