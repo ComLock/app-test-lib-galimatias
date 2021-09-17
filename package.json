@@ -40,7 +40,7 @@
     "postcss-loader": "4.2.0",
     "postcss-preset-env": "6.7.0",
     "sass-loader": "10.1.1",
-    "set-value": "3.0.2",
+    "set-value": "4.0.1",
     "serialize-javascript": "5.0.1",
     "stylus": "0.54.8",
     "stylus-loader": "4.3.3",
